@@ -126,5 +126,3 @@ User Browser → Public IP → NSG (80/443) → IIS Server → Website
 ---
 
 ##  Screenshots
-
-(Add screenshots of IIS installation, website access, HTTPS binding, and NSG rules)
