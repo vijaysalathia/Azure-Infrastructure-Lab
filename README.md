@@ -9,6 +9,7 @@ azure-infrastructure-lab/
 ├── 04-VPN-Gateway/
 ├── 05-Web Server/
 ├── 06-Azure Integration/
+├── 07-Security/
 └── screenshots/
 
 
