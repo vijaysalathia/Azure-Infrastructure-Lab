@@ -41,6 +41,3 @@ To deploy and configure a Windows Server Virtual Machine in Azure and enable sec
 
 ---
 
-##  Screenshots
-
-(Add screenshots of VM creation, IP configuration, and RDP connection)
