@@ -14,6 +14,27 @@ azure-infrastructure-lab/
 
 ---
 
+# Topics Covered
+
+1. Azure Networking (VNet & Subnet Configuration)
+2. Virtual Machine Deployment (Windows Server)
+3. Static IP Configuration
+4. Remote Desktop (RDP) Access
+5. Active Directory Domain Services (AD DS) Setup
+6. Client Machine Domain Join
+7. Home Folder Configuration
+8. Drive Mapping using Group Policy (GPO)
+9. Azure Entra ID Integration
+10. Azure Admin User Creation
+11. Hybrid Azure AD Join (Device Join)
+12. Web Server Deployment (IIS)
+13. SSL Configuration (HTTPS)
+14. Azure NSG Configuration (Ports 80, 443, 3389)
+15. VPN Gateway Deployment
+16. Point-to-Site (P2S) VPN Configuration
+17. Certificate Configuration (Root & Client)
+18. Laptop-to-Azure VPN Connectivity
+
 ## Objective
 
 To gain practical, real-world experience in designing and deploying secure Azure-based infrastructure with hybrid identity and networking.
