@@ -3,11 +3,12 @@ This repository demonstrates hands-on implementation of Azure infrastructure and
 
 
 azure-infrastructure-lab/
-├── 01-VM-Deployment/
-├── 02-Active-Directory/
-├── 03-Networking/
+├── 01-Networking/
+├── 02-VM-Deployment/
+├── 03-Active-Directory/
 ├── 04-VPN-Gateway/
-├── 05-Azure-Integration/
+├── 05-Web Server/
+├── 06-Azure Integration/
 └── screenshots/
 
 
