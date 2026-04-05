@@ -71,6 +71,3 @@ User → Public IP → NSG Rules → Virtual Machine → Service (RDP / IIS)
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of NSG rules and port configurations)
