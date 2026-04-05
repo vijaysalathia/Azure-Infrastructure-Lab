@@ -67,6 +67,3 @@ To design and configure Azure Virtual Network (VNet) and subnets to support secu
 
 ---
 
-##  Screenshots
-
-(Add screenshots of VNet creation, subnet configuration, and IP planning)
