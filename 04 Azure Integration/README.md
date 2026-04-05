@@ -55,7 +55,7 @@ To integrate on-premises Active Directory with Azure Entra ID and enable hybrid 
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 - Understanding hybrid identity architecture
 - Integration between AD DS and Azure Entra ID
@@ -64,6 +64,5 @@ To integrate on-premises Active Directory with Azure Entra ID and enable hybrid 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-(Add screenshots of Entra ID users, device join status, and sync configuration)
