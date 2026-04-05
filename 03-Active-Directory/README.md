@@ -65,4 +65,3 @@ To deploy and configure Active Directory Domain Services (AD DS) on Windows Serv
 
 ##  Screenshots
 
-(Add screenshots of AD setup, user creation, domain join, and GPO configuration)
